@@ -358,13 +358,14 @@ a {
 }
 
 .page .cont-box .app-list .app-item .info-box .app-info .top-info .active {
-    width: 28.5333333333vw;
-    min-width: 28.5333333333vw;
-    height: 13.6vw;
+    width: 32.5333333333vw;
+    min-width: 32.5333333333vw;
+    height: 15.6vw;
     overflow: hidden;
     display: flex;
     justify-content: flex-end
 }
+
 
 .page .cont-box .app-list .app-item .info-box .app-info .top-info .active img {
     width: 100%
